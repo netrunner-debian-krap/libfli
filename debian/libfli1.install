@@ -1,2 +1,1 @@
-debian/tmp/usr/lib/libfli.so.1.7
-debian/tmp/usr/lib/libfli.so.1
+usr/lib/libfli.so.1*
