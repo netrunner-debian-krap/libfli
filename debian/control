@@ -1,8 +1,8 @@
 Source: libfli1
 Section: libs
 Priority: extra
-Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
-XSBC-Original-Maintainer: Jasem Mutlaq <mutlaqja@ikarustech.com>
+Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Pino Toscano <pino@kde.org>
 Build-Depends: debhelper (>= 6), cdbs, cmake
 Standards-Version: 3.8.0
 Homepage: http://indi.sourceforge.net/

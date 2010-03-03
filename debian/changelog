@@ -1,3 +1,11 @@
+libfli1 (1.7-0r1) UNRELEASED; urgency=low
+
+  [ Pino Toscano ]
+  * Set team maintaineance to the Debian Krap Maintainers, with myself as
+    comaintainer.
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 03 Mar 2010 16:26:13 +0100
+
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
   * Update packaging for initial Ubuntu upload
