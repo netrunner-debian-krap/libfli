@@ -1,4 +1,4 @@
-Source: libfli1
+Source: libfli
 Section: libs
 Priority: extra
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
