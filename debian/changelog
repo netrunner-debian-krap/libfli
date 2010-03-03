@@ -10,8 +10,9 @@ libfli (1.7-0r1) UNRELEASED; urgency=low
     - update install files
     - simplify rules
     - drop cdbs from Build-Depends
+  * Update copyright.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 03 Mar 2010 16:39:58 +0100
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 03 Mar 2010 16:46:06 +0100
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
