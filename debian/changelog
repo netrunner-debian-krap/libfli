@@ -11,8 +11,9 @@ libfli (1.7-0r1) UNRELEASED; urgency=low
     - simplify rules
     - drop cdbs from Build-Depends
   * Update copyright.
+  * Bump Standards-Version to 3.8.4, no changes required.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 03 Mar 2010 16:46:06 +0100
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 03 Mar 2010 16:47:41 +0100
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
