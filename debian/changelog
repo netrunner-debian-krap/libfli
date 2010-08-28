@@ -1,4 +1,4 @@
-libfli (1.7-0r1) UNRELEASED; urgency=low
+libfli (1.7-1) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * Set team maintaineance to the Debian Krap Maintainers, with myself as
@@ -16,7 +16,7 @@ libfli (1.7-0r1) UNRELEASED; urgency=low
   * Set format as "3.0 (quilt)".
   * Add a symbols file for libfl1.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:42:30 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:43:24 +0200
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
