@@ -15,8 +15,9 @@ libfli (1.7-1) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.9.1, no other changes required.
   * Set format as "3.0 (quilt)".
   * Add a symbols file for libfl1.
+  * Add a watch file.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:43:24 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:53:35 +0200
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
