@@ -14,8 +14,9 @@ libfli (1.7-0r1) UNRELEASED; urgency=low
     to the deprecated /usr/share/common-licenses/BSD.
   * Bump Standards-Version to 3.9.1, no other changes required.
   * Set format as "3.0 (quilt)".
+  * Add a symbols file for libfl1.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:20:42 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:42:30 +0200
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 
