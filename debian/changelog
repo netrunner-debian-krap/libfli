@@ -12,10 +12,10 @@ libfli (1.7-0r1) UNRELEASED; urgency=low
     - drop cdbs from Build-Depends
   * Update copyright, also put the text of the BSD license instead of pointing
     to the deprecated /usr/share/common-licenses/BSD.
-  * Bump Standards-Version to 3.8.4, no changes required.
+  * Bump Standards-Version to 3.9.1, no other changes required.
   * Set format as "3.0 (quilt)".
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:17:05 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:20:42 +0200
 
 libfli1 (1.7-0ubuntu1) jaunty; urgency=low
 

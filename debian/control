@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Pino Toscano <pino@kde.org>
 Build-Depends: debhelper (>= 7.0.50~), cmake
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Homepage: http://indi.sourceforge.net/
 
 Package: libfli1
