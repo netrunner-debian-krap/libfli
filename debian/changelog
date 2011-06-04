@@ -12,7 +12,7 @@ libfli (1.7-1) UNRELEASED; urgency=low
     - drop cdbs from Build-Depends
   * Update copyright, also put the text of the BSD license instead of pointing
     to the deprecated /usr/share/common-licenses/BSD.
-  * Bump Standards-Version to 3.9.1, no other changes required.
+  * Bump Standards-Version to 3.9.2, no other changes required.
   * Set format as "3.0 (quilt)".
   * Add a symbols file for libfl1.
   * Add a watch file.
