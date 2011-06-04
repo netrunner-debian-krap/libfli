@@ -10,17 +10,19 @@ Homepage: http://indi.sourceforge.net/
 Package: libfli1
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Finger Lakes Instrument library 
- Finger Lakes Instrument library is used by applications to control
+Description: Finger Lakes Instrument library -- shared library
+ The Finger Lakes Instrument library is used by applications to control
  FLI CCDs and Filter wheels.
+ .
+ This package contains the shared library.
 
 Package: libfli-dev
 Section: libdevel
 Architecture: any
 Depends: libfli1 (= ${binary:Version}), ${shlibs:Depends}, ${misc:Depends}
-Description: Finger Lakes Instrument library 
- Finger Lakes Instrument library is used by applications to control
+Description: Finger Lakes Instrument library -- development files
+ The Finger Lakes Instrument library is used by applications to control
  FLI CCDs and Filter wheels.
  .
- This contains development headers for the Finger Lakes Instruments
+ This package contains development headers for the Finger Lakes Instruments
  library.
