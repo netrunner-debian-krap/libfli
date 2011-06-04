@@ -17,6 +17,8 @@ libfli (1.7-1) UNRELEASED; urgency=low
   * Add a symbols file for libfl1.
   * Add a watch file.
   * Update descriptions.
+  * Bump the cmake build dependency to 2.4.7, as requested by the upstream
+    build system.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 11:53:35 +0200
 
